@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/psymh9/COMP3013-SQA-Group10-Backend#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0"
   }
 }
